@@ -1,5 +1,5 @@
 |    Size   |     DL  | sha512sum |
 |  ---  |  ---  |  ---  |
-| 7MB | [v2rayN.7z.001](https://cdn.jsdelivr.net/gh/googleians/v2rayN@main/v2rayN.7z.001) | 315627fda35f4b3e322dd1723f2fa893d2ce8fb10d685842ed0a8b5807e804b24b09c3cdb5cbfad3c05f2162121a1373848f5b870043e1e76279ad6fa94309af |
-| 7MB | [v2rayN.7z.002](https://cdn.jsdelivr.net/gh/googleians/v2rayN@main/v2rayN.7z.002) | fac39ef20669fc866c1fda559110a9b711757451555eaccaad6ba5a20f68204f77a80ebeaf68fa457650c6ce0fd01b7da99d4d4d78b7be342ef62d90ab3c0ae4 |
-| 7MB | [v2rayN.7z.003](https://cdn.jsdelivr.net/gh/googleians/v2rayN@main/v2rayN.7z.003) | e9c796a67f2b7781fec16300adc22eec7267d3eee6bd9c10106cb90597a180fe968512bc15dc82551ef7dd167f10f826b7a1847c9291b9d347b4f61d9dcb1a52 |
+| 7MB | [v2rayN.7z.001](https://cdn.jsdelivr.net/gh/googleians/v2rayN@main/v2rayN.7z.001) | e7b654b617d518fcdb307f4c2fba07ea11fc10413bdeb849da58bd8a539fed8b311ad904a7ab9d5b457c8de047c648fc1ba7f7148279387ca8299b8c5ede4012 |
+| 7MB | [v2rayN.7z.002](https://cdn.jsdelivr.net/gh/googleians/v2rayN@main/v2rayN.7z.002) | 93613229771da58d06b221089456791a23e99960b5a86c975ae5f1a7a1635a17b54e23fa6e80d5ca971c570eed597ee0ccfacbc1902e52a4d83c0b96849c4530 |
+| 7MB | [v2rayN.7z.003](https://cdn.jsdelivr.net/gh/googleians/v2rayN@main/v2rayN.7z.003) | 71600ae4064ed0bbe4fd248605f906ee0af1113b470c21e087fefebc6607e4c2b45cc186f0f63b52a7c0c0c1305e056c37cb3a0b4af6fccaa50ccf19f48ef3ce |
