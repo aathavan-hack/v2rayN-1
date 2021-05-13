@@ -55,7 +55,7 @@ jobs:
             wget -qP $GITHUB_WORKSPACE/v2rayN https://github.com/googleians/v2ray-core/raw/main/wv2ray.exe
           
             
-            7z -v7m a -t7z v2rayN.7z v2rayN/*
+            7z -v7m a -t7z v2rayN-$(date +"%m-%d-%Y").7z v2rayN/*
             rm -rf v2rayN
                         
             
@@ -71,7 +71,7 @@ jobs:
             git config user.name "googleians"
             git config user.email "77716481+googleians@users.noreply.github.com"
             git commit -m "Version ${latest_version}"
-            git tag -a "$(date +"%d-%m-%Y")" -m "$(date +"%d-%m-%Y")"
+            git tag -a "$(date +"%m-%d-%Y")" -m "$(date +"%d-%m-%Y")"
             git remote add release "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
             git push -u --follow-tags release main -f
           fi
